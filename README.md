@@ -43,4 +43,4 @@ One of the most powerful aspects of Spring Boot is, it provides auto-configurati
 Spring Boot, at its core - is all rapid application development. But it starts at the initial setup phase of the application as well as common configuration.  
 With its structure, Spring Boot removes much of the boilerplate actions that are associated with just the application creation and initial setup.  
 It also has many uses. The use cases are unlimited. If the application needs to run on the JVM, Spring Boot will most likely save our time.  
-Spring Boot was designed with a Cloud-Native role in mind. And many of the constructs are for Cloud-Native applications. But there are no reasons traditional - enterprise  
+Spring Boot was designed with a Cloud-Native role in mind. And many of the constructs are for Cloud-Native applications. But there are no reasons traditional - enterprise - monolithic applications 

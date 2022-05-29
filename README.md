@@ -69,6 +69,6 @@ New Spring Boot developers don't have to deal with any of that. With a few simpl
 
 ### Auto Config 
 
-
+Auto configuration refers to the Application Context 
 
 * Default 

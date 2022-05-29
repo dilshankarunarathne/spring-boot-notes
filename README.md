@@ -40,3 +40,4 @@ One of the most powerful aspects of Spring Boot is, it provides auto-configurati
 
 ## Spring Boot 
 
+Spring Boot, at its core - supports rapid application development. 

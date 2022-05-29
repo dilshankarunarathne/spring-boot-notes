@@ -26,4 +26,4 @@ In Spring, this is any class that contains both attributes and methods. And thos
 Anything that Spring manages during the life-cycle of the application is considered **application context**.  
 
 * DTO - Data Transfer Objects  
-These are Java Beans with the specific purpose of moving state between logical layers of the application. There are times when we don't want to expose the details of our classes.  
+These are Java Beans with the specific purpose of moving state between logical layers of the application. There are times when we don't want to expose the details of our classes. And instead, translate to a DTO which often is written as an immutable 

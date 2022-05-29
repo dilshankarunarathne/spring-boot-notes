@@ -6,7 +6,7 @@ Spring framework is built and designed to provide comprehensive support when dev
 
 * Framework for providing comprehensive infrastructural support for developing Java Applications.  
 Spring essentially is designed to provide the plumbing for using these enterprice authoring in common components used in both internet and enterprice applications.  
-These plumbings allows us to easily consume these authorings while focusing on the business logics.  
+These plumbings allows us to easily consume these authoring while focusing on the business logics.  
 
 * Object-Oriented Programming best practices built in  
 Spring is built on solid Object-Oriented programming concepts, and its style promotes the users to do the same thing when consuming the framework.  

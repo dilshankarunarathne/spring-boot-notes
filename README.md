@@ -101,4 +101,4 @@ If we think about configuring those classes as we create them, we now need to kn
 IoC:  
 []("/assets/2-ioc-dm.png")  
 
-With IoC-based dependaency management, we start with a 
+With IoC-based dependaency management, we start with an IoC Container

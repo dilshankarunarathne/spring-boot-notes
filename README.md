@@ -53,4 +53,4 @@ We can change the application server, but this is very differnt from traditional
 With Spring Boot, the application server exists within the spring boot jar file.  
 
 * Auto-configuration of Application Context  
-In traditional Spring development, much of our time is spent configuring the Application Context 
+In traditional Spring development, much of our time is spent configuring the Application Context, often through copy-pasting.  

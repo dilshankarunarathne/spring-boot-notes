@@ -78,4 +78,4 @@ The opinionated defaults are very common and often we don't need to change them.
 
 * Configuration on presence.  
 One of the key aspects of auto-configuration is the ability to configure when a class, property or a component is present, and to bypass that configuration when it isn't.  
-This configuration allows a simple set of defaults that only get added 
+This configuration allows a simple set of defaults that only get added to the application context when the associated projects or JAR files are included.  

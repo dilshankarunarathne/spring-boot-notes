@@ -76,4 +76,4 @@ The opinionated defaults are very common and often we don't need to change them.
 
 * But they are very easy to override. Usually through very simple properties of the environment.  
 
-* 
+* One of the key aspects of 

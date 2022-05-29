@@ -36,7 +36,9 @@ The Application Context wraps the Bean Factory (which is the IoC Container itsel
 We as users and developers, never really interact with the IoC Container itself, instead we interact with its wrapper - the Application Context.  
 There are several implementations of the Application Context.  
 
-One of the most powerful aspects of Spring Boot is, it provides auto-configuration of the Application Context. So, we as developers can leverage simple properties and conventions to configure the Beans that loaded into the bean factory and used by the IoC container.  
+One of the most powerful aspects of Spring Boot is, it provides auto-configuration of the Application Context. So, we as developers can leverage simple properties and conventions to configure the Beans that loaded into the bean factory and used by the IoC container. 
+
+ 
 
 ## Spring Boot 
 

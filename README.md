@@ -60,7 +60,7 @@ But with Spring Boot, much of the configuration is done for us in many cases wit
 This goes hand-in-hand with embedded application servers as well as way that the Application Context is auto configured.  
 We get a default and effective servlet mapping without to having to write any XML or any Java configuration to the core servlet container of our applications.  
 
-* Spring Boot provides database support and configuration for embeded and remote databases with Hibernate mappings as the default implementation of the JPA.  
+* Spring Boot provides database support and configuration for embedded and remote databases with Hibernate mappings as the default implementation of the JPA.  
 With Spring Boot, a few key properties allow us to connect to remote databases or leverage embeded files with default schema and default data provided by SQL files embeded in our application.  
 This embeded case is fantastic for POC type solutions or demos.  
 

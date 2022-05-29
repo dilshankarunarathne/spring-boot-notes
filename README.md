@@ -91,6 +91,7 @@ Most commonly in Spring, dependaencies are injected at start up of the applicati
 
 ### Traditional vs IoC Dependency Management 
 
+Traditional:  
 []("/assets/1-traditional-dm.png")  
 
 []("/assets/2-ioc-dm.png")  

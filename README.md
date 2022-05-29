@@ -108,3 +108,4 @@ This is much easier to manage, cause now we don't need to know things three leve
 
 #### Spring IoC 
 
+* The Bean Factory is the 

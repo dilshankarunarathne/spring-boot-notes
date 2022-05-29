@@ -6,4 +6,4 @@
 * Object-Oriented Programming best practices built in  
 * DRY Principles - Don't Repeat Yourself  
 
-Spring framework is built and designed to provide comprehensive support when developing applications for the JVM. 
+Spring framework is built and designed to provide comprehensive support when developing applications for the JVM. Including abstractions from some of the most powerful 

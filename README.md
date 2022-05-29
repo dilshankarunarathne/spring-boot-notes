@@ -60,3 +60,4 @@ But with Spring Boot, much of the configuration is done for us in many cases wit
 This goes hand-in-hand with embeded application servers as well as way that the Application Context is auto configured.  
 We get a default and effective servlet mapping without to having to write any XML or any Java configuration to the core servlet container of our applications.  
 
+* Spring Boot

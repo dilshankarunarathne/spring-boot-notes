@@ -103,4 +103,4 @@ IoC:
 
 With IoC-based dependaency management, we start with an IoC Container. That IoC Container is usually triggered from the Main class.  
 That IoC Container builds itself specific objects that are needed or referenced in Main, and then those classes again get their dependencies.  
-But everything is comming from Main itself. Those become simply pointers in those classes, and the IoC Container 
+But everything is comming from Main itself. Those become simply pointers in those classes, and the IoC Container is doing the injection of these specific classes 

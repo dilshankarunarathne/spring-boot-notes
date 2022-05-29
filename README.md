@@ -16,3 +16,4 @@ Spring promotes DRY Principle. By leveraging the powerful abstractions of the fr
 
 ### Definitions 
 
+* POJO - Plain Old Java Objects  

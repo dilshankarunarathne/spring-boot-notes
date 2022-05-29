@@ -48,3 +48,4 @@ Spring Boot was designed with a Cloud-Native role in mind. And many of the const
 ### Key Aspects of Spring Boot
 
 * Embeded application server (tomcat or other) support.  
+Spring Boot with the Web package, brings in 

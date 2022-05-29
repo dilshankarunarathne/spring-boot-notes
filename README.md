@@ -14,12 +14,6 @@ Spring is built on solid Object-Oriented programming concepts, and its style pro
 * DRY Principles - Don't Repeat Yourself  
 Spring promotes DRY Principle. By leveraging the powerful abstractions of the framework, instead of rebuilding the scaffolding, we can focus on the actual needs of our application.   
 
- 
-  
-
- 
-
-
 
 ### Definitions 
 

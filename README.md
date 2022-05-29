@@ -5,7 +5,7 @@
 Spring framework is built and designed to provide comprehensive support when developing applications for the JVM. Including abstractions for some of the most powerful and common enterprise integrations, specifically around common infrastructure.  
 
 * Framework for providing comprehensive infrastructural support for developing Java Applications.  
-Spring essentially is designed to provide the plumbing for using these enterprise authoring in common components used in both internet and enterprice applications.  
+Spring essentially is designed to provide the plumbing for using these enterprise authoring in common components used in both internet and enterprise applications.  
 These plumbings allows us to easily consume these authoring while focusing on the business logics.  
 
 * Object-Oriented Programming best practices built in  

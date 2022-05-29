@@ -112,3 +112,4 @@ This is much easier to manage, cause now we don't need to know things three leve
 We usually do not interact with the Bean Factory directly. But, if we ever find ourself in a situation where we have to impact the behaviour of the Bean Factory, we can utilize various hooks in the Spring Bean life-cycle, things like a Bean Factory post processor, or a Bean Processor.  
 
 * The Application Context is what we interact with.  
+Even if we don't do it ourself by writing 

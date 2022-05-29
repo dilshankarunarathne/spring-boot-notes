@@ -7,4 +7,4 @@
 * DRY Principles - Don't Repeat Yourself  
 
 Spring framework is built and designed to provide comprehensive support when developing applications for the JVM. Including abstractions for some of the most powerful and common enterprice integrations, specifically around common infastructure.  
-Spring essentially is designed to provide the plumbing for using these enterprice authoring in common components. 
+Spring essentially is designed to provide the plumbing for using these enterprice authoring in common components used in both internet and enterprice applications.  

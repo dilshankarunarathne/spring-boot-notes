@@ -33,4 +33,5 @@ These are Java Beans with the specific purpose of moving state between logical l
 IoC provides mechanism of dependency injection. But there is more to that. With Spring's use of IoC, all operations of the life-cycle of those dependencies are controlled - not just the injection.  
 
 The Application Context wraps the Bean Factory (which is the IoC Container itself), which serves the Beans at the runtime of the application.  
-We as users and developers, 
+We as users and developers, never really interact with the IoC Container itself, instead we interact with its wrapper - the Application Context.  
+

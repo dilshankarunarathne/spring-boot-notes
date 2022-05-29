@@ -26,3 +26,4 @@ In Spring, this is any class that contains both attributes and methods. And thos
 Anything that Spring manages during the life-cycle of the application is considered **application context**.  
 
 * DTO - Data Transfer Objects  
+These are Java Beans 

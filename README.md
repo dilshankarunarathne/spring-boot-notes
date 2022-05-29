@@ -67,3 +67,8 @@ This embeded case is fantastic for POC type solutions or demos.
 * We also get Automatic Controller Mappings for MVC based applications. With raw Spring framework, we had to configure these mappings earlier in the framework's life-cycle, and it was rather tedious.  
 New Spring Boot developers don't have to deal with any of that. With a few simple annotations handle everything for wiring web requests for appropriate classes and methods via the servlet contacts.  
 
+### Auto Config 
+
+
+
+* Default 

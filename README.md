@@ -109,4 +109,4 @@ This is much easier to manage, cause now we don't need to know things three leve
 #### Spring IoC 
 
 * The Bean Factory is the IoC Container.  
-We usually do not interact with the Bean Factory directly. But, if we ever find ourself in a situation where we have to 
+We usually do not interact with the Bean Factory directly. But, if we ever find ourself in a situation where we have to impact the behaviour of the Bean Factory, we can utilize various hooks in the Spring Bean 

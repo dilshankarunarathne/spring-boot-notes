@@ -94,5 +94,6 @@ Most commonly in Spring, dependaencies are injected at start up of the applicati
 Traditional:  
 []("/assets/1-traditional-dm.png")  
 
+IoC:  
 []("/assets/2-ioc-dm.png")  
 

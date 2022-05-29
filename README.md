@@ -116,4 +116,4 @@ Even if we don't do it ourself by writing code. Many times this isn't even neede
 We can even create Beans that are aware of the Application Context. 
 
 * Bean Factory maintains References to the Spring Beans that either we configure, or Spring Boot auto configures for us.  
-References are not added to the Bean Factory. They are configured, and Spring handles object initialization 
+References are not added to the Bean Factory. They are configured, and Spring handles object initialization, as well as the instantiation 

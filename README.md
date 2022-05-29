@@ -38,9 +38,6 @@ There are several implementations of the Application Context.
 
 One of the most powerful aspects of Spring Boot is, it provides auto-configuration of the Application Context. So, we as developers can leverage simple properties and conventions to configure the Beans that loaded into the bean factory and used by the IoC container. 
 
-In Spring Boot, the IoC container maintains our class dependaencies, for the entire life-cycle of those dependaencies.  
-From the IoC container, objects can be injected as dependaencies into other classes at either start up time or at run time, depending on how the dependencies are defined in the class, and how the container manages them.  
-
 ## Spring Boot 
 
 Spring Boot, at its core - is all rapid application development. But it starts at the initial setup phase of the application as well as common configuration.  
@@ -82,3 +79,6 @@ The opinionated defaults are very common, and often we don't need to change them
 * Configuration on presence.  
 One of the key aspects of auto-configuration is the ability to configure when a class, property or a component is present, and to bypass that configuration when it isn't.  
 This configuration allows a simple set of defaults that only get added to the application context when the associated projects or JAR files are included.  
+
+### IoC in Spring Boot 
+

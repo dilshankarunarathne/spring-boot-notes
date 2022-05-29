@@ -95,7 +95,7 @@ Traditional:
 []("/assets/1-traditional-dm.png")  
 
 In this example, consider a Main class that contains the main() method. It will create two classes that it needs to do its work. Within the second class, in its constructor, it also creates a third class to do work. That class has two more classes that it needs to do work.  
-So with that, we ends up creating five classes 
+So with that, we ends up creating five classes that all had to be managed at the creation from that main() method. 
 
 IoC:  
 []("/assets/2-ioc-dm.png")  

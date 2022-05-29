@@ -30,4 +30,4 @@ These are Java Beans with the specific purpose of moving state between logical l
 
 ### Inversion of Control **IoC**
 
-IoC provides mechanism of dependency injection. 
+IoC provides mechanism of dependency injection. But there is more to that. 

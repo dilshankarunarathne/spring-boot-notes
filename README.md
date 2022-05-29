@@ -57,3 +57,4 @@ In traditional Spring development, much of our time is spent configuring the App
 But with Spring Boot, much of the configuration is done for us in many cases within logical set of defaults and with the ability to add properties to modify those defaults as we need to.  
 
 * Automatic Servlet Mappings  
+This goes hand-in-hand with embeded application 

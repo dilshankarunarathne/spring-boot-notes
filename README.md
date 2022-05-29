@@ -28,3 +28,5 @@ Anything that Spring manages during the life-cycle of the application is conside
 * DTO - Data Transfer Objects  
 These are Java Beans with the specific purpose of moving state between logical layers of the application. There are times when we don't want to expose the details of our classes. And instead, translate to a DTO which often is written as an immutable object before sending the state data out to the logical layer.  
 
+### Inversion of Control **IoC**
+

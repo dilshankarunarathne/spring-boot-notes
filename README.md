@@ -62,7 +62,7 @@ We get a default and effective servlet mapping without to having to write any XM
 
 * Spring Boot provides database support and configuration for embedded and remote databases with Hibernate mappings as the default implementation of the JPA.  
 With Spring Boot, a few key properties allow us to connect to remote databases or leverage embedded files with default schema and default data provided by SQL files embeded in our application.  
-This embeded case is fantastic for POC type solutions or demos.  
+This embedded case is fantastic for POC type solutions or demos.  
 
 * We also get Automatic Controller Mappings for MVC based applications. With raw Spring framework, we had to configure these mappings earlier in the framework's life-cycle, and it was rather tedious.  
 New Spring Boot developers don't have to deal with any of that. With a few simple annotations handle everything for wiring web requests for appropriate classes and methods via the servlet contacts.  

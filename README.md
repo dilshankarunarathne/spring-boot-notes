@@ -89,5 +89,5 @@ Most commonly in Spring, dependaencies are injected at start up of the applicati
 
 * One of the things in IoC, that is similar to dependency injection is that objects don't create dependant objects in their constructors or methods. Instead, the container manages them and injects them as needed.  
 
-### Traditional Dependency Management 
+### Traditional vs IoC Dependency Management 
 

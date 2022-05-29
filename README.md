@@ -11,3 +11,5 @@ Spring essentially is designed to provide the plumbing for using these enterpric
 This plumbings allows us to easily consume these authorings while focusing on the business logics.  
 
 Spring is built on solid Object-Oriented programming concepts, and its style promotes the users to do the same thing when consuming the framework.  
+
+Spring promotes DRY Principle. By leveraging the powerful abstractions of the framework

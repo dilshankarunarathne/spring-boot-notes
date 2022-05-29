@@ -89,7 +89,7 @@ Most commonly in Spring, dependaencies are injected at start up of the applicati
 
 * One of the things in IoC, that is similar to dependency injection is that objects don't create dependant objects in their constructors or methods. Instead, the container manages them and injects them as needed.  
 
-### Traditional vs IoC Dependency Management 
+#### Traditional vs IoC Dependency Management 
 
 Traditional:  
 []("/assets/1-traditional-dm.png")  
@@ -106,5 +106,5 @@ That IoC Container builds itself specific objects that are needed or referenced 
 But everything is comming from Main itself. Those become simply pointers in those classes, and the IoC Container is doing the injection of these specific classes, **into the parent class**.  
 This is much easier to manage, cause now we don't need to know things three levels deep, they are simply configured in the way that we write our application to begin with, and then the IoC Container manages the life-cycle of those dependencies.  
 
-### Spring IoC 
+#### Spring IoC 
 

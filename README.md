@@ -38,7 +38,7 @@ There are several implementations of the Application Context.
 
 One of the most powerful aspects of Spring Boot is, it provides auto-configuration of the Application Context. So, we as developers can leverage simple properties and conventions to configure the Beans that loaded into the bean factory and used by the IoC container. 
 
-In Spring Boot, the IoC container maintains our class dependaencies.  
+In Spring Boot, the IoC container maintains our class dependaencies, for the entire life-cycle of those dependaencies.  
 
 ## Spring Boot 
 

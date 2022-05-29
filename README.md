@@ -2,6 +2,8 @@
 
 ## Spring Framework 
 
+Spring framework is built and designed to provide comprehensive support when developing applications for the JVM. Including abstractions for some of the most powerful and common enterprice integrations, specifically around common infastructure.  
+
 * Framework for providing comprehensive infastructural support for developing Java Applications.  
 
 * Object-Oriented Programming best practices built in  

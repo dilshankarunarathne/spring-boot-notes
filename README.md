@@ -76,6 +76,6 @@ The opinionated defaults are very common and often we don't need to change them.
 
 * But they are very easy to override. Usually through very simple properties of the environment.  
 
-* 
+* Configuration on presence.  
 One of the key aspects of auto-configuration is the ability to configure when a class, property or a component is present, and to bypass that configuration when it isn't.  
 

@@ -85,6 +85,6 @@ This configuration allows a simple set of defaults that only get added to the ap
 * In Spring Boot, the IoC container maintains our class dependaencies, for the entire life-cycle of those dependaencies.  
 
 * From the IoC container, objects can be injected as dependaencies into other classes at either start up time or at run time, depending on how the dependencies are defined in the class, and how the container manages them.  
-Most commonly, dependaencies are injected at start up 
+Most commonly in Spring, dependaencies are injected at start up 
 
 * 

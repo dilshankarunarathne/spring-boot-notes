@@ -94,7 +94,7 @@ Most commonly in Spring, dependaencies are injected at start up of the applicati
 Traditional:  
 []("/assets/1-traditional-dm.png")  
 
-In this example, consider a Main class that contains the main() method. 
+In this example, consider a Main class that contains the main() method. It will create two classes that it needs to do its work. 
 
 IoC:  
 []("/assets/2-ioc-dm.png")  

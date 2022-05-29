@@ -1,2 +1,2 @@
-# spring-boot-notes
- My notes on Spring Boot
+# Spring Boot
+

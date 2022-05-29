@@ -40,4 +40,5 @@ One of the most powerful aspects of Spring Boot is, it provides auto-configurati
 
 ## Spring Boot 
 
-Spring Boot, at its core - supports rapid application development. 
+Spring Boot, at its core - is all rapid application development. But it starts at the initial setup phase of the application as well as common configuration.  
+With its structure, Spring Boot removes much of the boilerplate 

@@ -35,3 +35,4 @@ IoC provides mechanism of dependency injection. But there is more to that. With 
 The Application Context wraps the Bean Factory (which is the IoC Container itself), which serves the Beans at the runtime of the application.  
 We as users and developers, never really interact with the IoC Container itself, instead we interact with its wrapper - the Application Context.  
 
+There are several implementations of the Application Context 

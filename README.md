@@ -71,4 +71,5 @@ New Spring Boot developers don't have to deal with any of that. With a few simpl
 
 Auto configuration refers to the Application Context or more specifically the Inversion of Control container, which is the Bean Factory.  
 
-* Spring Boot provides a Default and opinionated configuration 
+* Spring Boot provides a Default and opinionated configuration of common constructs.  
+The opinionated defaults are very 

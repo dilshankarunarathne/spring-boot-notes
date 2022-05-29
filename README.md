@@ -102,4 +102,4 @@ IoC:
 []("/assets/2-ioc-dm.png")  
 
 With IoC-based dependaency management, we start with an IoC Container. That IoC Container is usually triggered from the Main class.  
-That IoC Container builds itself specific objects that are needed or referenced in Main, and then those classes 
+That IoC Container builds itself specific objects that are needed or referenced in Main, and then those classes again get their dependencies. 

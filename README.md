@@ -15,7 +15,7 @@ This plumbings allows us to easily consume these authorings while focusing on th
 
  
 
-Spring promotes DRY Principle. By leveraging the powerful abstractions of the framework, instead of rebuilding the scaffolding, we can focus on the actual needs of our application.  
+
 
 ### Definitions 
 

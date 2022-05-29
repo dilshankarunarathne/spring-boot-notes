@@ -74,4 +74,6 @@ Auto configuration refers to the Application Context or more specifically the In
 * Spring Boot provides a Default and opinionated configuration of common constructs.  
 The opinionated defaults are very common and often we don't need to change them. 
 
-* But they are very easy to override.  
+* But they are very easy to override. Usually through very simple properties of the environment.  
+
+* 

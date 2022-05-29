@@ -112,4 +112,4 @@ This is much easier to manage, cause now we don't need to know things three leve
 We usually do not interact with the Bean Factory directly. But, if we ever find ourself in a situation where we have to impact the behaviour of the Bean Factory, we can utilize various hooks in the Spring Bean life-cycle, things like a Bean Factory post processor, or a Bean Processor.  
 
 * The Application Context is what we interact with.  
-Even if we don't do it ourself by writing code. Many times this isn't even needed because of the way that Spring Boot does its things. But the Application Context is a wrapper around the Bean Factory, and they share some common interfaces. 
+Even if we don't do it ourself by writing code. Many times this isn't even needed because of the way that Spring Boot does its things. But the Application Context is a wrapper around the Bean Factory, and they share some common interfaces. And we can, any Spring Boot application, or any Spring application - interact with the Application Context if we needed to. 

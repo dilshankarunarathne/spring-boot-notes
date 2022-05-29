@@ -17,3 +17,4 @@ Spring promotes DRY Principle. By leveraging the powerful abstractions of the fr
 ### Definitions 
 
 * POJO - Plain Old Java Objects  
+In Spring, this is any class that contains both attributes and methods. And those methods are not just getters and setters.  

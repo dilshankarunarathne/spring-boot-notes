@@ -55,3 +55,5 @@ With Spring Boot, the application server exists within the spring boot jar file.
 * Auto-configuration of Application Context  
 In traditional Spring development, much of our time is spent configuring the Application Context, often through copy-pasting.  
 But with Spring Boot, much of the configuration is done for us in many cases within logical set of defaults and with the ability to add properties to modify those defaults as we need to.  
+
+* Automatic Servlet Mappings  

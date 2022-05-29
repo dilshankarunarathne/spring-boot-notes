@@ -49,7 +49,7 @@ Spring Boot was designed with a Cloud-Native role in mind. And many of the const
 
 * Embedded application server (tomcat or other) support.  
 Spring Boot with the Web package, brings in a pre-configured tomcat instance to the application.  
-We can change the application server, but this is very differnt from traditional JVM-based applications, where we would build a **war** file and drop it into the application server.  
+We can change the application server, but this is very different from traditional JVM-based applications, where we would build a **war** file and drop it into the application server.  
 With Spring Boot, the application server exists within the spring boot jar file.  
 
 * Auto-configuration of Application Context  

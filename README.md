@@ -119,3 +119,4 @@ We can even create Beans that are aware of the Application Context.
 References are not added to the Bean Factory. They are configured, and Spring handles object initialization, as well as the instantiation of those objects.  
 
 * Once Beans have been initialized, an order of operation for construction is created, based on the dependaencies. And then the Beans are instantiated in proper order by the Bean Factory.  
+If we ever create a circular  dependaency, 

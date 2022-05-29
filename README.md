@@ -21,3 +21,4 @@ Spring promotes DRY Principle. By leveraging the powerful abstractions of the fr
 In Spring, this is any class that contains both attributes and methods. And those methods are not just getters and setters.  
 
 * Java Beans - These are also essentially POJOs. But they only contain accessor methods, such as getters and setters.  
+* Spring Beans - 

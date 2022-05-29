@@ -12,4 +12,5 @@ This plumbings allows us to easily consume these authorings while focusing on th
 
 Spring is built on solid Object-Oriented programming concepts, and its style promotes the users to do the same thing when consuming the framework.  
 
-Spring promotes DRY Principle. By leveraging the powerful abstractions of the framework
+Spring promotes DRY Principle. By leveraging the powerful abstractions of the framework, instead of rebuilding the scaffolding, we can focus on the actual needs of our application.  
+

@@ -64,4 +64,4 @@ We get a default and effective servlet mapping without to having to write any XM
 With Spring Boot, a few key properties allow us to connect to remote databases or leverage embeded files with default schema and default data provided by SQL files embeded in our application.  
 This embeded case is fantastic for POC type solutions or demos.  
 
-* We also get Automatic Controller Mappings for MVC based applications. With raw Spring framework, we had to 
+* We also get Automatic Controller Mappings for MVC based applications. With raw Spring framework, we had to configure these mappings 

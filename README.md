@@ -128,4 +128,5 @@ Annotations are a core component of the Java language. They provide a way to add
 These metadata are commonly used to give instruction to the compiler, or to the runtime environment.  
 
 Spring, with its aspect-oriented programming model, uses annotations as a leverage point for pointcuts in the code. 
-Spring uses these constructs to add functionality to our code, so called proxies. 
+Spring uses these constructs to add functionality to our code, so called proxies.
+

@@ -164,3 +164,5 @@ We can use a local datasource while developing, and very easily swap it to a rem
 * Allows to focus on business logic.  
 All of this allows us to focus on the business logic, without worrying about data access that much.  
 
+##### Key Components: 
+

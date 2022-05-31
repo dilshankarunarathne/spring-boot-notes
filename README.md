@@ -153,4 +153,4 @@ Therefor the proxy behaviour only gets applied to method A and doesn't get re-ap
 Most of the boilerplate stuff in software design falls into data access. Spring Data makes data access very easy in most cases. 
 Spring Data at its core, provides a common set of interfaces based on JPA. These interfaces leverage convention around method naming to derive data access behaviour using JPA and the Hibernate implementation of it.  
 This behaviour is aspected which in practice results in, us simply writing an interface and allowing the code to be handled by Spring, through the use of aspects.  
-We can still use raw JDBC code with Spring, when it comes to queries and results set mapping if we want. But Spring will handle 
+We can still use raw JDBC code with Spring, when it comes to queries and results set mapping if we want. But Spring will handle the connection 

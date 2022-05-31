@@ -151,4 +151,4 @@ Therefor the proxy behaviour only gets applied to method A and doesn't get re-ap
 ## Spring Data
 
 Most of the boilerplate stuff in software design falls into data access. Spring Data makes data access very easy in most cases. 
-Spring Data at its core, provides a common set of interfaces based on JPA. These interfaces leverage convention around method naming to derive data access behaviour using JPA. 
+Spring Data at its core, provides a common set of interfaces based on JPA. These interfaces leverage convention around method naming to derive data access behaviour using JPA and the Hibernate implementation of it.  

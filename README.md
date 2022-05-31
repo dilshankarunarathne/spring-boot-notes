@@ -143,4 +143,4 @@ Data access for instance, with transaction management system seems to be a commo
 For an example: 
     I have a method A that has transactional boundaries around it. 
     I have another method B that also has transactional boundaries around it.
-    I want to call A
+    I want to call A, and have A call B 

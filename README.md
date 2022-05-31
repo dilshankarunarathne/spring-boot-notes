@@ -156,4 +156,4 @@ This behaviour is aspected which in practice results in, us simply writing an in
 We can still use raw JDBC code with Spring, when it comes to queries and results set mapping if we want. But Spring will handle the connection and teardown for us.  
 In addition to behaviour, Spring Data provides the repository pattern natively and inclides Data Mapping conventions to translate results sets to entity objects much like in JPA and Hibernate.  
 
-* 
+* Spring Data removes a lot of the boilerplate code.  

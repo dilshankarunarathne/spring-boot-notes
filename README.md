@@ -124,3 +124,4 @@ Spring manages these Beans for the most parts from start up to shut down. There 
 
 ## Annotations 
 
+Annotations are a core component of the Java language. 

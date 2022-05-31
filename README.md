@@ -125,4 +125,4 @@ Spring manages these Beans for the most parts from start up to shut down. There 
 ## Annotations 
 
 Annotations are a core component of the Java language. They provide a way to add metadata for our code. 
-These metadata are commonly used for the compiler
+These metadata are commonly used to give instruction to the compiler, 

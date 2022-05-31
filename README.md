@@ -168,5 +168,5 @@ All of this allows us to focus on the business logic, without worrying about dat
 
 * Repository Interface  
 A Spring Data repository, regardless if its based on a RDBMS system or a NoSQL system, provides the methods needed to access the data. It is built using an extention of the Spring class and generics.  
-Essentially, it is an interface that leverages proxies to build the actual CRUD methods. We can decorate this interface for our own queries by adding methods with conventional names 
+Essentially, it is an interface that leverages proxies to build the actual CRUD methods. We can decorate this interface for our own queries by adding methods with conventional names, but without any SQL 
 * 

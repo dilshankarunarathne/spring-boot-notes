@@ -100,6 +100,7 @@ If we think about configuring those classes as we create them, we now need to kn
 
 IoC:  
 []("/assets/2-ioc-dm.png")  
+![Traditional DM](\assets\1-traditional-dm.png "Traditional DM")
 
 With IoC-based dependency management, we start with an IoC Container. That IoC Container is usually triggered from the Main class.  
 That IoC Container builds itself specific objects that are needed or referenced in Main, and then those classes again get their dependencies.  

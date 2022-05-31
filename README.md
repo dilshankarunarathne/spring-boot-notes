@@ -137,4 +137,4 @@ Beans in the Bean Factory are proxied. Usually by one or more abstracts from Spr
 Annotations tend to be very easy extend points for the framework, specifically for AspectJ. And many of them drive not only behaviour, but component scanning as a part of the definition of the Application Context. 
 The same power that Spring get from annotations are available to us as developers. Either through Aspect-Oriented Programming, or by extending the Spring framework to meet our needs.  
 
-The proxy classes have to be called through the proxy itself for the behaviour to be added. This is important when dealing with private method calls or class local method calls. Data access for instance, with transaction management system seems to be a common error location  
+The proxy classes have to be called through the proxy itself for the behaviour to be added. This is important when dealing with private method calls or class local method calls. Data access for instance, with transaction management system seems to be a common error location because internal  

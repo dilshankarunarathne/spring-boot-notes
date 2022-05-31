@@ -167,4 +167,4 @@ All of this allows us to focus on the business logic, without worrying about dat
 ##### Key Components: 
 
 * Repository Interface  
-A Spring Data repository 
+A Spring Data repository, regardless if its based on a RDBMS 

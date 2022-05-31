@@ -133,4 +133,4 @@ Spring uses these constructs to add functionality to our code, so called proxies
 ### Proxies 
 
 This is a very important concept in Spring. Much of the power of Spring comes during operations, from proxy classes driven by abstract behaviour.  
-Beans in the Bean Factory are proxied. Usually by one or more abstracts from Spring. This is where the added behavior is providing 
+Beans in the Bean Factory are proxied. Usually by one or more abstracts from Spring. This is where the added behavior is providing much of the plumbing 

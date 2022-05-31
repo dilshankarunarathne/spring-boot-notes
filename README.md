@@ -142,7 +142,7 @@ Data access for instance, with transaction management system seems to be a commo
 
 Method calling order matters.  
 For an example:  
-    I have a method A that has transactional boundaries around it. 
+    I have a method A that has transactional boundaries around it.   
     I have another method B that also has transactional boundaries around it.
     I want to call A, and have A call B. And I'm expecting the transaction boundaries to be separate because there is a new transaction.
     The problem is that, method A - calls method B internally or class-locally. 

@@ -103,7 +103,7 @@ IoC:
 
 With IoC-based dependency management, we start with an IoC Container. That IoC Container is usually triggered from the Main class.  
 That IoC Container builds itself specific objects that are needed or referenced in Main, and then those classes again get their dependencies.  
-But everything is comming from Main itself. Those become simply pointers in those classes, and the IoC Container is doing the injection of these specific classes, **into the parent class**.  
+But everything is coming from Main itself. Those become simply pointers in those classes, and the IoC Container is doing the injection of these specific classes, **into the parent class**.  
 This is much easier to manage, cause now we don't need to know things three levels deep, they are simply configured in the way that we write our application to begin with, and then the IoC Container manages the life-cycle of those dependencies.  
 
 #### Spring IoC 

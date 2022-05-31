@@ -171,4 +171,4 @@ A Spring Data repository, regardless if its based on a RDBMS system or a NoSQL s
 Essentially, it is an interface that leverages proxies to build the actual CRUD methods. We can decorate this interface for our own queries by adding methods with conventional names, but without any SQL or Data Access code.  
 
 * Entity Object  
-The Entity Object is the DTO for the Data layer. It is mapped using JPA to the table structure of the underlying datasource. 
+The Entity Object is the DTO for the Data layer. It is mapped using JPA to the table structure of the underlying datasource. We can leverage joins through entities if we are using RDBMS. 

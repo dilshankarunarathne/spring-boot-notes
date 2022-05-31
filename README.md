@@ -99,7 +99,6 @@ So with that, we end up creating five classes that all had to be managed at the 
 If we think about configuring those classes as we create them, we now need to know things three levels deep, and how to properly create them and manage them for their life-cycle of our application. This would cause a lot of complication when it comes to a really large application.  
 
 IoC:  
-[]("/assets/2-ioc-dm.png")  
 ![IoC DM](\assets\2-ioc-dm.png "IoC DM")
 
 With IoC-based dependency management, we start with an IoC Container. That IoC Container is usually triggered from the Main class.  

@@ -82,7 +82,7 @@ This configuration allows a simple set of defaults that only get added to the ap
 
 ### IoC in Spring Boot 
 
-* In Spring Boot, the IoC container maintains our class dependaencies, for the entire life-cycle of those dependaencies.  
+* In Spring Boot, the IoC container maintains our class dependencies, for the entire life-cycle of those dependaencies.  
 
 * From the IoC container, objects can be injected as dependencies into other classes at either start up time or at run time, depending on how the dependencies are defined in the class, and how the container manages them.  
 Most commonly in Spring, dependencies are injected at start up of the application as they are added to the Bean Factory.  

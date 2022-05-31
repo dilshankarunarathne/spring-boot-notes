@@ -151,3 +151,4 @@ Therefor the proxy behaviour only gets applied to method A and doesn't get re-ap
 ## Spring Data
 
 Most of the boilerplate stuff in software design falls into data access. Spring Data makes data access very easy in most cases. 
+Spring Data at its core, provides a common set of interfaces 

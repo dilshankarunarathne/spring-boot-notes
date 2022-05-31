@@ -122,3 +122,5 @@ References are not added to the Bean Factory. They are configured, and Spring ha
 If we ever create a circular  dependaency - where two Beans rely on each other, we would get warnings.  
 Spring manages these Beans for the most parts from start up to shut down. There are a couple of exceptions, but most usually, they are managed by Spring.  
 
+## Annotations 
+

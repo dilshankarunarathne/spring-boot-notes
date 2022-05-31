@@ -140,3 +140,4 @@ The same power that Spring get from annotations are available to us as developer
 The proxy classes have to be called through the proxy itself for the behaviour to be added. This is important when dealing with private method calls or class local method calls. 
 Data access for instance, with transaction management system seems to be a common error location because **internal methods are not proxied**.
 
+For an example: 

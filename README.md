@@ -157,6 +157,7 @@ We can still use raw JDBC code with Spring, when it comes to queries and results
 In addition to behaviour, Spring Data provides the repository pattern natively and inclides Data Mapping conventions to translate results sets to entity objects much like in JPA and Hibernate.  
 
 ##### Benefits: 
+
 * Spring Data removes a lot of the boilerplate code.  
 * Allows for swapping datasources easier  
 We can use a local datasource while developing, and very easily swap it to a remote or other datasource without much work. This ability to swap also makes data migration much more easier.  

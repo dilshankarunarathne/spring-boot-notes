@@ -174,4 +174,4 @@ Essentially, it is an interface that leverages proxies to build the actual CRUD 
 The Entity Object is the DTO for the Data layer. It is mapped using JPA to the table structure of the underlying datasource. We can leverage joins through entities if we are using RDBMS.  
 
 * DataSource  
-The datasource itself, is not usually accessed in code using Spring Data, unless we are working with JDBC templates. But it what we configure through our properties 
+The datasource itself, is not usually accessed in code using Spring Data, unless we are working with JDBC templates. But it what we configure through our properties or allow to be auto configured by Spring 

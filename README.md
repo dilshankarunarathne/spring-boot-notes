@@ -158,3 +158,4 @@ In addition to behaviour, Spring Data provides the repository pattern natively a
 
 * Spring Data removes a lot of the boilerplate code.  
 * Allows for swapping datasources easier  
+We can use a local datasource while developing, and very easily swap it to a 

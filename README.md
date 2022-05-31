@@ -154,4 +154,4 @@ Most of the boilerplate stuff in software design falls into data access. Spring 
 Spring Data at its core, provides a common set of interfaces based on JPA. These interfaces leverage convention around method naming to derive data access behaviour using JPA and the Hibernate implementation of it.  
 This behaviour is aspected which in practice results in, us simply writing an interface and allowing the code to be handled by Spring, through the use of aspects.  
 We can still use raw JDBC code with Spring, when it comes to queries and results set mapping if we want. But Spring will handle the connection and teardown for us.  
-In addition to behaviour, Spring Data provides the repository pattern natively and inclides Data Mapping conventions to translate results sets to entity objects much like in JPA and Hibernate. 
+In addition to behaviour, Spring Data provides the repository pattern natively and inclides Data Mapping conventions to translate results sets to entity objects much like in JPA and Hibernate.  

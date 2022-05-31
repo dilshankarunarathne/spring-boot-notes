@@ -134,4 +134,4 @@ Spring uses these constructs to add functionality to our code, so called proxies
 
 This is a very important concept in Spring. Much of the power of Spring comes during operations, from proxy classes driven by abstract behaviour.  
 Beans in the Bean Factory are proxied. Usually by one or more abstracts from Spring. This is where the added behavior is providing much of the plumbing of Spring itself.  
-Annotations tend to be very easy extend points for the framework, specifically for AspectJ. And many of them drive not only behaviour,   
+Annotations tend to be very easy extend points for the framework, specifically for AspectJ. And many of them drive not only behaviour, but component scanning as a part of the definition   

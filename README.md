@@ -225,4 +225,4 @@ By allowing Spring to manage those dependencies, they will be injected-in at the
 For instance, when we have a single entity (a table) that is needed in two other entities, by using injection - we use a single instance of a service specified for that entity, and inject them into all the places needed.  
 4. Annotate or configure.  
 Once we have our service implementation and the dependencies along with the API, we should then annotate or configure our classes to be managed by Spring, so that they too can be injected where they are needed.  
-5. 
+5. Code our implementation.  

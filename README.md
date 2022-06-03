@@ -215,4 +215,4 @@ This is similar to the factory pattern. And often we use a factory to serve the 
 
 ### How to build one ?
 
-* Define our interface (or class)  
+* Define our interface (or class).  

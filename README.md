@@ -260,4 +260,4 @@ We then annotate this POJO for the servlet mapping, which defines the URL that t
 It can be specific, dynamic or perential in nature.  
 Try to use a single controller per specific URL and utilize dynamic elements in methods.  
 
-The controller itself will respond with a specific method
+The controller itself will respond with a specific method, based on the annotation

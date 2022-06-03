@@ -192,4 +192,5 @@ This allows us to write very clean code. The dependency comes in - we utilize th
 We may have a legacy - XML configuration, we may see newer Java configuration, with or without component scanning, and we also have auto configuration.  
 * Spring maintains handles to objects constructed at startup.  
 As the Bean Factory starts up, Spring scans every Bean that will be configured, and create an initialization and handle to that initialization in the Bean Factory itself.  
-Spring then builds a graph of the order Beans must be constructed. It then goes to a multi-step process to construct objects. 
+Spring then builds a graph of the order Beans must be constructed. It then goes to a multi-step process to construct objects.  
+* 

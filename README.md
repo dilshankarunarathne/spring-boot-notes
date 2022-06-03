@@ -210,4 +210,5 @@ This is very powerful, since those vendors have been changed over time. By build
 * Simplify implementations  
 Say that we have a data layer for multiple use cases. We can expose only those implementations necessary, for a given use case in code, avoiding the noise of those use cases that don't pertain to use specific business logic that we're working on.  
 *  
-They can also be built with multiple implementations, if needed. Such as swapping the SMS provider, based on geolocation. 
+They can also be built with multiple implementations, if needed. Such as swapping the SMS provider, based on geolocation.  
+This is similar to 

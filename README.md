@@ -204,4 +204,4 @@ Keep in mind, everything we are using are singletons, meaning thread safety is v
 ### Why build Service Abstractions ?
 
 * Encapsulate layers  
-Often, 
+Often, we want to separate our view layer 

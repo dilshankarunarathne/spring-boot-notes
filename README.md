@@ -261,3 +261,4 @@ It can be specific, dynamic or perential in nature.
 Try to use a single controller per specific URL and utilize dynamic elements in methods.  
 * Responds to incoming web requests.  
 The controller itself will respond with a specific method, based on the annotation of the HTTP method and execute.  
+* 

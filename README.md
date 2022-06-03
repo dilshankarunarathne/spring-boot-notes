@@ -209,7 +209,7 @@ Often, we want to separate our view layer from the data layer. And, building Ser
 This is very powerful, since those vendors have been changed over time. By building an abstraction, we can isolate the impact on code, if something does change.  
 * Simplify implementations  
 Say that we have a data layer for multiple use cases. We can expose only those implementations necessary, for a given use case in code, avoiding the noise of those use cases that don't pertain to use specific business logic that we're working on.  
-* Swap out implementations at runtime.  
+* Swap out implementations as runtime.  
 They can also be built with multiple implementations, if needed. Such as swapping the SMS provider, based on geolocation.  
 This is similar to the factory pattern. And often we use a factory to serve the proper implementation when needed.  
 

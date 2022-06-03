@@ -247,4 +247,5 @@ The controller methods cannot be isolated or abstracted, it is the entry point f
 With a defined web URL, a web request will come to our application. And the MVC framework of whatever the technology we're using, in our case Spring - will pick the controller and the method on that controller that this web request should respond to.  
 The controller will then build a Model, or have one passed from the framework as often happens with Spring.  
 The controller will go about and assemble the data for the model using various bits of code, applications, services, data access or some other technique.  
-The controller will then identify which view it should use. 
+The controller will then identify which view it should use.  
+Usually, 

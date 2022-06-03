@@ -242,3 +242,4 @@ It is the logic portion of this picture.
 It also takes the initial web request based on a defined pattern and the uses various business logic calls to assemble the model and then present it with the view.  
 The controller methods cannot be isolated or abstracted, it is the entry point for the web calls. 
 
+![assets/3-mvc](\assets\3-mvc.png "MVC")

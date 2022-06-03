@@ -266,4 +266,4 @@ The controller can then output a view or raw data. Usually we work with views in
 
 ### Template Engines 
 
-Spring does not provide a template engine for us as a default selection. 
+Spring does not provide a template engine for us as a default selection. But it does support several template engines. 

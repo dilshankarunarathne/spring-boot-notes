@@ -244,4 +244,4 @@ The controller methods cannot be isolated or abstracted, it is the entry point f
 
 ![assets/3-mvc](\assets\3-mvc.png "MVC")
 
-With a defined web URL, a web request will come to our application. And the MVC framework, in our case Spring
+With a defined web URL, a web request will come to our application. And the MVC framework of whatever the technology we're using, in our case Spring

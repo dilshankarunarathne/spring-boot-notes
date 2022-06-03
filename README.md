@@ -244,3 +244,4 @@ The controller methods cannot be isolated or abstracted, it is the entry point f
 
 ![assets/3-mvc](\assets\3-mvc.png "MVC")
 
+With a defined web URL, 

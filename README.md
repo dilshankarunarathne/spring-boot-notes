@@ -194,4 +194,4 @@ We may have a legacy - XML configuration, we may see newer Java configuration, w
 As the Bean Factory starts up, Spring scans every Bean that will be configured, and create an initialization and handle to that initialization in the Bean Factory itself.  
 Spring then builds a graph of the order Beans must be constructed. It then goes to a multi-step process to construct objects.  
 * Spring serves singletons to classes during construction.  
-During this process, singleton instances of the objects are created and injected as needed during object construction
+During this process, singleton instances of the objects are created and injected as needed during object construction, or immediately after - depending on 

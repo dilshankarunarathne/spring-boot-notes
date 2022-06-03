@@ -178,3 +178,4 @@ The datasource itself, is not usually accessed in code using Spring Data, unless
 
 ### Why Should We Use IoC
 
+* Allows us to focus on the contract  

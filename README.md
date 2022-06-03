@@ -254,4 +254,4 @@ Finally, the rendered view is returned to the requester.
 ### Spring Controller 
 
 * Spring Bean  
-Essentially, it's nothing more than a Spring Bean. 
+Essentially, it's nothing more than a Spring Bean that defines the methods that will handle the web requests. 

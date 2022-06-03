@@ -189,3 +189,4 @@ This allows us to write very clean code. The dependency comes in - we utilize th
 ### How IoC works with Spring 
 
 * The IoC container is configured by the developer.  
+We may have a legacy - XML configuration 

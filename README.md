@@ -236,4 +236,5 @@ These steps can be swapped or changed as we work with Spring. But this is a gene
 * The Model is the data. 
 No matter what the source is, the data gets loaded into a model object that contains all the dynamic data for the page.  
 * The View is the visual display, which is ultimately populated by the model.  
-U
+Usually it contains static data mixed with placeholders for the dynamic data, along with markup language tags.  
+* 

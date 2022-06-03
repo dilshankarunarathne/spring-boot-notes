@@ -187,3 +187,4 @@ We build intermediate abstractions in the layers in order to do business and sha
 This allows us to write very clean code. The dependency comes in - we utilize the dependency in the business method as it is needed.  
 
 ### How IoC works with Spring 
+

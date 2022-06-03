@@ -238,4 +238,5 @@ No matter what the source is, the data gets loaded into a model object that cont
 * The View is the visual display, which is ultimately populated by the model.  
 Usually it contains static data mixed with placeholders for the dynamic data, along with markup language tags.  
 * 
-The Controller is the logic portion of this picture. It also takes the initial web request based on a defined pattern and the uses various business logic calls to a
+The Controller is the logic portion of this picture. 
+It also takes the initial web request based on a defined pattern and the uses various business logic calls to a

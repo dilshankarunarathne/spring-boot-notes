@@ -266,10 +266,9 @@ The controller can then output a view or raw data. Usually we work with views in
 
 ### Template Engines 
 
-Spring does not provide a template engine for us as a default selection. But it does support several template engines. 
-Many of which have starters from the Application Context with Spring Boot.  
-
-**Thymeleaf** is the most popular templating engine for Spring.  
+* Spring does not provide a template engine for us as a default selection. But it does support several template engines. 
+Many of which have starters from the Application Context with Spring Boot. 
+* **Thymeleaf** is the most popular templating engine for Spring.  
 * It provides a DSL for HTML, leaving raw HTML documents. 
 These documents are then much easier to style because our designer can do so asynchronously to our application development. 
 And it can be done without mocking data or running the application. 

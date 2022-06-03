@@ -245,4 +245,4 @@ The controller methods cannot be isolated or abstracted, it is the entry point f
 ![assets/3-mvc](\assets\3-mvc.png "MVC")
 
 With a defined web URL, a web request will come to our application. And the MVC framework of whatever the technology we're using, in our case Spring - will pick the controller and the method on that controller that this web request should respond to.  
-The controller will then build a model. 
+The controller will then build a Model, or have one passed from the framework as often happens with Spring.  

@@ -273,4 +273,5 @@ Many of which have starters from the Application Context with Spring Boot.
 * It provides a DSL for HTML, leaving raw HTML documents. 
 These documents are then much easier to style because our designer can do so asynchronously to our application development. 
 And it can be done without mocking data or running the application. 
-* They leverage those placeholders for dynamic data, such that we can populate them. But in the template we can put a static value that needs to be replaced.
+* They leverage those placeholders for dynamic data, such that we can populate them. But in the template we can put a static value that needs to be replaced. 
+* The rendering engine then allows the final product

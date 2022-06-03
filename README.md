@@ -237,6 +237,6 @@ These steps can be swapped or changed as we work with Spring. But this is a gene
 No matter what the source is, the data gets loaded into a model object that contains all the dynamic data for the page.  
 * The View is the visual display, which is ultimately populated by the model.  
 Usually it contains static data mixed with placeholders for the dynamic data, along with markup language tags.  
-* 
-The Controller is the logic portion of this picture. 
+* Controller wires the view with the model.  
+It is the logic portion of this picture. 
 It also takes the initial web request based on a defined pattern and the uses various business logic calls to assemble the model and then present it with the view.  

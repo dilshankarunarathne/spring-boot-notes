@@ -221,4 +221,5 @@ First, we need to define our interface, or our class - if we are not working wit
 3. Inject the dependencies.  
 This is what we really dig-in with the IoC container.  
 If we have multiple implementations - each of those has multiple dependencies, we now have to build a bunch of code to create those dependencies when we create those implementations. 
-By allowing Spring to manage those dependencies, they will be injected-in at the right time, and they can more effectively be shared. 
+By allowing Spring to manage those dependencies, they will be injected-in at the right time, and they can more effectively be shared.  
+For instance, 

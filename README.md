@@ -230,7 +230,7 @@ Finally, we should code our implementation, so that it would be used for the use
 
 These steps can be swapped or changed as we work with Spring. But this is a generally good concept, especially with test driven development. 
 
-## MVC Pattern 
+## The MVC Pattern 
 
 * Model-View-Controller, this is a fundamental and common pattern for web application UI development. 
 * The Model is the data. 

@@ -182,4 +182,4 @@ The datasource itself, is not usually accessed in code using Spring Data, unless
 IoC containers allows us to focus on the contacts of the interfaces, instead of dealing with the construction and management of the objects. 
 * Allows us to develop business code only, leaving all the constructions to the container itself  
 * Build intermediate abstractions  
-We build intermediate abstractions in the layers in order to do business and share code as appropriate, and the IoC handles those intermediate abstractions being dependancies 
+We build intermediate abstractions in the layers in order to do business and share code as appropriate, and the IoC handles those intermediate abstractions being dependancies where necessary. 

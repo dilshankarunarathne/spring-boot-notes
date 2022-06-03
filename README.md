@@ -232,4 +232,4 @@ These steps can be swapped or changed as we work with Spring. But this is a gene
 
 ## MVC Pattern 
 
-This is a pattern for web application UI development. 
+Model-View-Controller, this is a pattern for web application UI development. 

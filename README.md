@@ -199,3 +199,5 @@ During this process, singleton instances of the objects are created and injected
 Keep in mind, everything we are using are singletons, meaning thread safety is very important.  
 * The developer only has access to the Application Context, not the raw Bean Factory.  
 
+## Service Abstractions 
+

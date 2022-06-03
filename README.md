@@ -251,3 +251,5 @@ The controller will then identify which view it should use.
 Usually, both of these (Model & View) are then passed by the MVC framework to the templating engine, which merges the model's data elements with the placeholders in the view.  
 Finally, the rendered view is returned to the requester.  
 
+### Spring Controller 
+

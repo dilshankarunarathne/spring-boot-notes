@@ -249,4 +249,5 @@ The controller will then build a Model, or have one passed from the framework as
 The controller will go about and assemble the data for the model using various bits of code, applications, services, data access or some other technique.  
 The controller will then identify which view it should use.  
 Usually, both of these (Model & View) are then passed by the MVC framework to the templating engine, which merges the model's data elements with the placeholders in the view.  
-Finally, the rendered view is returned 
+Finally, the rendered view is returned to the requester.  
+

@@ -228,4 +228,5 @@ Once we have our service implementation and the dependencies along with the API,
 5. Code our implementation.  
 Finally, we should code our implementation, so that it would be used for the use cases at hand.  
 
-These steps can be swapped or changed as we work with Spring. 
+These steps can be swapped or changed as we work with Spring. But this is a generally good concept, especially with test driven development. 
+

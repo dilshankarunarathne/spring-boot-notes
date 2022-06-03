@@ -208,3 +208,4 @@ Often, we want to separate our view layer from the data layer. And, building Ser
 * Abstract 3<sup>rd</sup> party APIs  
 This is very powerful, since those vendors have been changed over time. By building an abstraction, we can isolate the impact on code, if something does change.  
 * Simplify implementations  
+We can also use them to simplify implementations. 

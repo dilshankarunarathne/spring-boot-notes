@@ -180,4 +180,4 @@ The datasource itself, is not usually accessed in code using Spring Data, unless
 
 * Allows us to focus on the contracts  
 IoC containers allows us to focus on the contacts of the interfaces, instead of dealing with the construction and management of the objects. 
-* Allows us to develop business code only
+* Allows us to develop business code only, leaving all the constructions to the container itself  

@@ -203,3 +203,4 @@ Keep in mind, everything we are using are singletons, meaning thread safety is v
 
 ### Why build Service Abstractions ?
 
+* Encapsulate layers  

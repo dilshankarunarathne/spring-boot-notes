@@ -179,3 +179,4 @@ The datasource itself, is not usually accessed in code using Spring Data, unless
 ### Why Should We Use IoC
 
 * Allows us to focus on the contracts  
+IoC containers allows us to focus on the contacts 

@@ -205,3 +205,4 @@ Keep in mind, everything we are using are singletons, meaning thread safety is v
 
 * Encapsulate layers  
 Often, we want to separate our view layer from the data layer. And, building Service Abstractions between them allow us to build business logic into a layer that isn't our front-end.  
+* Abstract 3

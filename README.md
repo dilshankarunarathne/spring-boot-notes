@@ -248,4 +248,4 @@ With a defined web URL, a web request will come to our application. And the MVC 
 The controller will then build a Model, or have one passed from the framework as often happens with Spring.  
 The controller will go about and assemble the data for the model using various bits of code, applications, services, data access or some other technique.  
 The controller will then identify which view it should use.  
-Usually, both of these (Model & View) are then passed by the MVC framework to 
+Usually, both of these (Model & View) are then passed by the MVC framework to the templating engine. 

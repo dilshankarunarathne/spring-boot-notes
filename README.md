@@ -212,3 +212,4 @@ Say that we have a data layer for multiple use cases. We can expose only those i
 *  
 They can also be built with multiple implementations, if needed. Such as swapping the SMS provider, based on geolocation.  
 This is similar to the factory pattern. And often we use a factory to serve the proper implementation when needed.  
+

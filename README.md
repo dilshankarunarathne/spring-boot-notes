@@ -184,4 +184,5 @@ IoC containers allows us to focus on the contacts of the interfaces, instead of 
 * Build intermediate abstractions  
 We build intermediate abstractions in the layers in order to do business and share code as appropriate, and the IoC handles those intermediate abstractions being dependencies where necessary.  
 * Produce clean code  
-This allows us to write very clean code. The dependency comes in - we utilize the dependency in the business method as it is needed. 
+This allows us to write very clean code. The dependency comes in - we utilize the dependency in the business method as it is needed.  
+

@@ -215,8 +215,8 @@ This is similar to the factory pattern. And often we use a factory to serve the 
 
 ### How to build one ?
 
-* Define our interface (or class).  
+1. Define our interface (or class).  
 First, we need to define our interface, or our class - if we are not working with interfaces. But in the service boundary level, interfaces are something we really should work with.  
-* Create the API.  
-* Inject the dependencies.  
+2. Create the API.  
+3. Inject the dependencies.  
 This is what we really dig-in with the IoC container. 

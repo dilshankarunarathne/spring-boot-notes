@@ -239,4 +239,5 @@ No matter what the source is, the data gets loaded into a model object that cont
 Usually it contains static data mixed with placeholders for the dynamic data, along with markup language tags.  
 * Controller wires the view with the model.  
 It is the logic portion of this picture. 
-It also takes the initial web request based on a defined pattern and the uses various business logic calls to assemble the model and then present it with the view.  
+It also takes the initial web request based on a defined pattern and the uses various business logic calls to assemble the model and then present it with the view.
+* 

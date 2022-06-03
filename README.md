@@ -220,4 +220,4 @@ First, we need to define our interface, or our class - if we are not working wit
 2. Create the API.  
 3. Inject the dependencies.  
 This is what we really dig-in with the IoC container.  
-If we have multiple implementations - each of those has multiple dependencies, 
+If we have multiple implementations - each of those has multiple dependencies, we now have to build a bunch of code 

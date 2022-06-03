@@ -216,4 +216,5 @@ This is similar to the factory pattern. And often we use a factory to serve the 
 ### How to build one ?
 
 * Define our interface (or class).  
-First, we need to define our interface, or our class - if we are not working with interfaces. But in the service boundary level, 
+First, we need to define our interface, or our class - if we are not working with interfaces. But in the service boundary level, interfaces are something we really should work with.  
+* 

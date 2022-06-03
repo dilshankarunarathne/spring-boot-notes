@@ -208,4 +208,5 @@ Often, we want to separate our view layer from the data layer. And, building Ser
 * Abstract 3<sup>rd</sup> party APIs  
 This is very powerful, since those vendors have been changed over time. By building an abstraction, we can isolate the impact on code, if something does change.  
 * Simplify implementations  
-Say that we have a data layer for multiple use cases. We can expose only those implementations necessary, for a given use case in code, avoiding the noise of those use cases that don't pertain 
+Say that we have a data layer for multiple use cases. We can expose only those implementations necessary, for a given use case in code, avoiding the noise of those use cases that don't pertain to use specific business logic that we're working on.  
+* 

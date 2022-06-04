@@ -288,4 +288,4 @@ With Spring, there's a specialized controller for RESTFul web services. In reali
 * Once we understand the paradigm, it becomes very straightforward. No matter if it's a web service, or a web page. 
 * One cool aspect of response bodies of Spring, is that it does all the marshalling and unmarshalling for us, into a JSON object - or from a JSON object into a Java object. 
 * JSON is the default. But we can convert these to other content types such as XML. With appropriate marshalling on the configuration of the Application Context. 
-Spring can even respond to except header, if we need to support multiple content types within our application. 
+Spring can even respond to except header, if we need to support multiple content types within our application.  

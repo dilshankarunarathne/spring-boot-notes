@@ -287,4 +287,4 @@ With Spring, there's a specialized controller for RESTFul web services. In reali
 * It's like MVC, but in this case - the view is JSON payload by default, as opposed to an HTML document. 
 * Once we understand the paradigm, it becomes very straightforward. No matter if it's a web service, or a web page. 
 * One cool aspect of response bodies of Spring, is that it does all the marshalling and unmarshalling for us, into a JSON object - or from a JSON object into a Java object. 
-* JSON is the default. But we can convert these to other content types such as XML. With appropriate marshalling 
+* JSON is the default. But we can convert these to other content types such as XML. With appropriate marshalling on the configuration 

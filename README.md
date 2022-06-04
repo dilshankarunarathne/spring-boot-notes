@@ -284,4 +284,5 @@ This is the most common use of Spring to this day. Mostly web services are creat
 With Spring, there's a specialized controller for RESTFul web services. In reality, it's a stereotype of controller that adds response body to each method that exposes a request mapping.  
 
 * Spring uses controllers for ReSTful web services 
-* Just like MVC, but in this case - the view is JSON payload by default, as opposed to an HTML document. 
+* It's like MVC, but in this case - the view is JSON payload by default, as opposed to an HTML document. 
+* 

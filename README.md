@@ -278,3 +278,6 @@ And it can be done without mocking data or running the application.
 ## Web Services with Spring 
 
 This is the most common use of Spring to this day. Mostly web services are created with Spring, that are based on REST.  
+
+### RestController 
+
